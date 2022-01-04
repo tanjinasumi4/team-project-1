@@ -21,7 +21,7 @@ const Reviews = () => {
     return (
         <div className="add-service">
             <Typography sx={{my:3,color:'primary.main'}} variant="h5">
-                CUSTOMER REVIEWS FROM
+            GO THROUGH A REVIEW FROM OUR PRODUCT EXPERIENCE
             </Typography>
             <Container sx={{bgcolor: 'text.disabled',py:6}}>
             <form onSubmit={handleSubmit(onSubmit)}>
