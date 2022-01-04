@@ -137,7 +137,7 @@ const Navigation = () => {
                         <MenuIcon/>
                     </IconButton>
                     <Typography className={navLogo} variant="h6" component="div" sx={{ flexGrow: 1 }}>
-                DREAM WATCH AND OPTICS
+                DREAM WATCH SHOP
               </Typography>
               <Box className={navItemContainer} sx={{ width: "500" }}>
                 <Link className={deskTopNav} to="/home">

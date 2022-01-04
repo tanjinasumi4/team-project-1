@@ -10,7 +10,7 @@ const TopBanner = () => {
     const [state]=useState({
         title : "WELCOME",
         titleTwo : "TO OUR SHOP",
-        titleThree : "DREAM WATCH & OPTICS",
+        titleThree : "DREAM WATCH SHOP",
         img:ima
   });
     // const items = [
@@ -44,7 +44,7 @@ const TopBanner = () => {
                     delay:40,
                     strings: [
                         "CHOOSE YOUR WATCH",
-                        "GRAB YOUR SUNGLASS",
+                        "GRAB YOUR STYLE",
                         "DEFINE THE PERFECT YOU"
                     ],
                  }}
