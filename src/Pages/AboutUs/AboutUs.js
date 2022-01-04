@@ -8,7 +8,7 @@ import about1 from '../../images/about/about1.png';
 import about3 from '../../images/about/about3.png';
 import about4 from '../../images/about/about4.png';
 import about5 from '../../images/about/about5.jpg';
-import bannerBg from '../../images/about/banner1.png';
+import bannerBg from '../../images/about/About-Us.jpg';
 import Footer from '../Footer/Footer';
 // import Navbar from '../Navbar/Navbar';
 
@@ -17,7 +17,7 @@ const aboutBg = {
     // backgroundColor:'rgb(45,58,74,0.8)',
     backgroundBlendMode: 'darken, luminosity',
     // marginTop: 175
-    height: 300,
+    height: 500,
     backgroundPosition: ' center'
 }
 
@@ -27,7 +27,7 @@ const AboutUs = () => {
             <Navigation></Navigation>
             <Box style={aboutBg}>
             </Box>
-            <Container sx={{my:5}}>
+            <Container className='aboutstyle' sx={{my:5}}>
                 <Typography sx={{ mb: 4, color: "info.main" }}variant="h4" gutterBottom component="div">
                     Unique & Stylist Fashion
                     <br />
@@ -66,7 +66,7 @@ const AboutUs = () => {
 
             </Container>
             <Container sx={{ my: 10 }}>
-                <Typography sx={{textAlign:'center',my:5}} variant="h4">
+                <Typography className='aboutstyle' sx={{textAlign:'center',my:5}} variant="h4">
                     Behind The Brands
                 </Typography>
                 <Typography sx={{textAlign:'center',my:5}} variant="body1">

@@ -10,7 +10,7 @@ import p5 from '../../images/products/p5.jpg';
 import p6 from '../../images/products/p6.jpg';
 import Paper from '@mui/material/Paper';
 import BookingModal from '../ProductBooking/BookingModal/BookingModal';
-import slider2 from '../../images/banner/slide2.png';
+import slider2 from '../../images/banner/slide4.png';
 
 const Booking = () => {
     const { productId } = useParams();
@@ -38,7 +38,7 @@ const Booking = () => {
                         alt="Paella dish"
                     />
                     <Typography sx={{my:5,color:'info.main'}} variant="h4">
-                        Booking Page 
+                    BOOK YOUR PRODUCTS HERE
                     </Typography>
                     <NavLink style={{textDecoration:'none'}} to="/home">
                         <Button sx={{mb:5,px:10}} variant="contained">Back To Home</Button>
