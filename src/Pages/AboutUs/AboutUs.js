@@ -35,7 +35,7 @@ const AboutUs = () => {
                     
                 </Typography>
                 <Typography variant="subtitle1" gutterBottom component="div">
-                    I am a highly organised and motivated professional Fashion Designer with a wealth of experience in a range of photographic styles and services. Just run your Fashion Store which will be a reflection of you a sexy and confident woman that shines with her unique style. Our goal is to make fashion as easy possible. We bring you the best of glam and sexy clothes while keeping in mind that high quality things arent always too expensive. Our goal is to make fashion as easy as possible, that is why we add carefully selected products on a daily basis, and this is essential for us. This is how you keep up with the times in style! We ship worldwide & space!
+                    We are highly organised and motivated professional Fashion Designer with a wealth of experience in a range of photographic styles and services. Just run your Fashion Store which will be a reflection of you a sexy and confident woman that shines with her unique style. Our goal is to make fashion as easy possible. We bring you the best of glam and sexy clothes while keeping in mind that high quality things arent always too expensive. Our goal is to make fashion as easy as possible, that is why we add carefully selected products on a daily basis, and this is essential for us. This is how you keep up with the times in style! We ship worldwide & space!
                 </Typography>
                 <Button sx={{my:3}} variant="outlined">Read More ...</Button>
             </Container>
@@ -50,10 +50,10 @@ const AboutUs = () => {
                            <span sx={{color:'info.main'}}>---</span> THE HIGH STRESS FAVOUTIRE
                         </Typography>
                         <Typography variant="subtitle1" gutterBottom component="div">
-                            Praesent metus tellus, elementum eu, semper a, adipiscing nec, purus. Vestibulum volutpat pretium libero. In ut quam vitae odio lacinia tincidunt. Etiam ut purus mattis mauris sodales aliquam. Aenean massa.
+Swiss-made quality at reasonable prices is the name of the game at Tissot, which has been making old-school mechanical watches in Le Locle, Switzerland since 1853. Whatever your style, you’re likely to find something you want in their extensive catalog spanning pocket watches, pro-quality dive watches and classic ‘60s chronographs.
                         </Typography>
                         <Typography variant="subtitle1" gutterBottom component="div">
-                            In dui magna, posuere eget, vestibulum et, tempor auctor, justo. Vivamus consectetuer hendrerit lacus. In hac habitasse platea dictumst. Ut tincidunt tincidunt erat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                        Swatch changed the game in the early 1980s by proving that Switzerland could make inexpensive quartz (i.e. battery-powered) watches as well as high-end mechanical ones. Forty years later they’re still at the top of their game, producing multiple collections every year in their signature colorful-quirky style.
                         </Typography>
                         
                     </Grid>
